@@ -1,5 +1,3 @@
-### Problem solving
-
 ## Problem Statement
 Given a string str consisting of letters only and an integer n, the task is to replace every character of the given string by a character which is n times more than it. If the letter exceeds ‘z’, then start checking from ‘a’ in a cyclic manner.
 
