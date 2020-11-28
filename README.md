@@ -29,8 +29,7 @@ A. Write an algorithm to solve the above issue. Please consider the complexity o
 
 ## Solution (php Code)
 
-[Working code sample]
-[Working code sample]: https://3v4l.org/IKqJ4
+[Working code sample](https://3v4l.org/IKqJ4)
 
 ```php
 $alphabet_str = "abcdefghijklmnopqrstuvwxyz";
