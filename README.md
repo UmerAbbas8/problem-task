@@ -49,7 +49,7 @@ foreach($str_arr as $key=>$val){
 ## Question: 
 B. What is the disadvantage of using the ASCII value of the letters to solve this problem?
 
-## Solution
+## Answer
 Although this porblem can be solved by ASCII values too, but if we use ASCII values then we are limited to use ASCII characters only for this algo. if we use position based apporach we can put anyhting in that list and still get a desired result form our Algo.
 
 
