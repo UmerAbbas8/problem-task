@@ -28,12 +28,15 @@ A. Write an algorithm to solve the above issue. Please consider the complexity o
 5. repeat for all the charater position values in the string under considration.
 
 ## Solution (php Code)
+
+[Working code sample]: https://3v4l.org/IKqJ4
+
 ```php
 $alphabet_str = "abcdefghijklmnopqrstuvwxyz";
 $alphabet_arr = str_split($alphabet_str);
 $alphabet_arr_count = count($alphabet_arr);
 
-$n = 3;
+$n = 2;
 $str = "abc";
 $str_arr = str_split($str);
 
